@@ -14,13 +14,13 @@ export const feedSources = [
     country: 'USA',
     category: 'World News'
   },
-  {
-    id: 'politico',
-    name: 'Politico',
-    url: 'https://rss.politico.com/politics-news.xml',
-    country: 'USA',
-    category: 'Politics'
-  },
+  // {
+  //   id: 'politico',
+  //   name: 'Politico',
+  //   url: 'https://rss.politico.com/politics-news.xml',
+  //   country: 'USA',
+  //   category: 'Politics'
+  // },
   {
     id: 'cbc',
     name: 'CBC News - Canada',
@@ -114,13 +114,13 @@ export const feedSources = [
     country: 'UK',
     category: 'World News'
   },
-  {
-    id: 'guardian',
-    name: 'The Guardian - World News',
-    url: 'https://www.theguardian.com/world/rss',
-    country: 'UK',
-    category: 'World News'
-  },
+  // {
+  //   id: 'guardian',
+  //   name: 'The Guardian - World News',
+  //   url: 'https://www.theguardian.com/world/rss',
+  //   country: 'UK',
+  //   category: 'World News'
+  // },
   {
     id: 'ft',
     name: 'Financial Times - World',
@@ -172,13 +172,13 @@ export const feedSources = [
     country: 'India',
     category: 'World News'
   },
-  {
-    id: 'cna',
-    name: 'Channel News Asia - World',
-    url: 'https://www.channelnewsasia.com/rss',
-    country: 'Singapore',
-    category: 'World News'
-  },
+  // {
+  //   id: 'cna',
+  //   name: 'Channel News Asia - World',
+  //   url: 'https://www.channelnewsasia.com/rss',
+  //   country: 'Singapore',
+  //   category: 'World News'
+  // },
 
   // Middle East
   {
