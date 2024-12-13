@@ -15,16 +15,16 @@ export const feedSources = [
     category: 'World News'
   },
   {
-    id: 'cnn',
-    name: 'CNN - World News',
-    url: 'http://rss.cnn.com/rss/edition_world.rss',
+    id: 'politico',
+    name: 'Politico',
+    url: 'https://rss.politico.com/politics-news.xml',
     country: 'USA',
-    category: 'World News'
+    category: 'Politics'
   },
   {
     id: 'cbc',
-    name: 'CBC News - World',
-    url: 'https://www.cbc.ca/cmlink/rss-world',
+    name: 'CBC News - Canada',
+    url: 'https://www.cbc.ca/webfeed/rss/rss-canada',
     country: 'Canada',
     category: 'World News'
   },
@@ -188,27 +188,27 @@ export const feedSources = [
     country: 'Qatar',
     category: 'World News'
   },
-  {
-    id: 'arabnews',
-    name: 'Arab News - World',
-    url: 'https://www.arabnews.com/rss.xml',
-    country: 'Saudi Arabia',
-    category: 'World News'
-  },
-  {
-    id: 'qna',
-    name: 'Qatar News Agency - General',
-    url: 'https://www.qna.org.qa/en/News/RSS',
-    country: 'Qatar',
-    category: 'World News'
-  },
-  {
-    id: 'haaretz',
-    name: 'Haaretz - World News',
-    url: 'https://www.haaretz.com/srv/world-news-rss',
-    country: 'Israel',
-    category: 'World News'
-  },
+  // {
+  //   id: 'arabnews',
+  //   name: 'Arab News - World',
+  //   url: 'https://www.arabnews.com/rss.xml',
+  //   country: 'Saudi Arabia',
+  //   category: 'World News'
+  // },
+  // {
+  //   id: 'qna',
+  //   name: 'Qatar News Agency - General',
+  //   url: 'https://www.qna.org.qa/en/News/RSS',
+  //   country: 'Qatar',
+  //   category: 'World News'
+  // },
+  // {
+  //   id: 'haaretz',
+  //   name: 'Haaretz - World News',
+  //   url: 'https://www.haaretz.com/srv/world-news-rss',
+  //   country: 'Israel',
+  //   category: 'World News'
+  // },
   {
     id: 'jpost',
     name: 'Jerusalem Post',
@@ -216,22 +216,22 @@ export const feedSources = [
     country: 'Israel',
     category: 'General'
   },
-  {
-    id: 'menafn',
-    name: 'MENAFN - Middle East News',
-    url: 'https://menafn.com/rss/',
-    country: 'UAE',
-    category: 'World News'
-  },
+  // {
+  //   id: 'menafn',
+  //   name: 'MENAFN - Middle East News',
+  //   url: 'https://menafn.com/rss/',
+  //   country: 'UAE',
+  //   category: 'World News'
+  // },
 
   // Russia
-  {
-    id: 'moscowtimes',
-    name: 'The Moscow Times - All News',
-    url: 'https://www.themoscowtimes.com/feeds/rss',
-    country: 'Russia',
-    category: 'World News'
-  },
+  // {
+  //   id: 'moscowtimes',
+  //   name: 'The Moscow Times - All News',
+  //   url: 'https://www.themoscowtimes.com/feeds/rss',
+  //   country: 'Russia',
+  //   category: 'World News'
+  // },
   {
     id: 'rt',
     name: 'RT - World News',
@@ -241,13 +241,13 @@ export const feedSources = [
   },
 
   // Africa
-  {
-    id: 'news24',
-    name: 'News24 - World',
-    url: 'https://feeds.24.com/articles/news24/World/rss',
-    country: 'South Africa',
-    category: 'World News'
-  },
+  // {
+  //   id: 'news24',
+  //   name: 'News24 - World',
+  //   url: 'https://feeds.24.com/articles/news24/World/rss',
+  //   country: 'South Africa',
+  //   category: 'World News'
+  // },
   {
     id: 'nation',
     name: 'Daily Nation - World',
